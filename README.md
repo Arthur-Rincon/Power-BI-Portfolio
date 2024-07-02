@@ -1,5 +1,5 @@
 # Power-BI-Portfolio-2
-Examples of Power BI projects
+Power BI plant Sample.
 
 ## Skills
 
